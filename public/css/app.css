@@ -13961,7 +13961,7 @@ h6 {
   border: 1px solid rgba(255, 255, 255, 0.08);
   display: inline-block;
   margin-right: 15px;
-  background: #DDDDDD;
+  background: #7FDBFF;
   color: #fff;
   text-align: center;
   padding: 10px 0;
@@ -14945,12 +14945,12 @@ label.error {
   border: 0px;
   font-weight: 700;
   border-radius: 15px;
-  background: transparent;
+  background: #DDDDDD;
   border: 1px solid #7FDBFF;
   margin: 0px 15px;
 }
 .buy-sell-widget .nav-tabs .nav-item .nav-link.active {
-  background: #DDDDDD;
+  background: #0074D9;
   color: white;
 }
 

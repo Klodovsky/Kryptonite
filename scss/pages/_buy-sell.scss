@@ -12,11 +12,11 @@
                 border: 0px;
                 font-weight: 700;
                 border-radius: 15px;
-                background: transparent;
+                background: #DDDDDD;
                 border: 1px solid $border-color;
                 margin: 0px 15px;
                 &.active {
-                    background: $primary;
+                    background:  #0074D9 ;
                     color: white;
                 }
             }
