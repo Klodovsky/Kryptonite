@@ -3,7 +3,7 @@ $enable-deprecation-messages: false;
 $ignore-warning             : true;
 // Body
 $body-bg   : #001f3f;
-$body-color: #8C87C2;
+$body-color: #001f3f;
 // Typography
 $font-family-base       : 'Biko';
 $headings-font-weight   : 500;
@@ -51,7 +51,7 @@ $ebony-clay: #232833;
 $colors    : () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors      : map-merge(("blue": $blue, "indigo": $indigo, "purple": $purple, "pink": $pink, "red": $red, "orange": $orange, "yellow": $yellow, "green": $green, "teal": $teal, "cyan": $cyan, "white": $white, "gray": $gray-600, "gray-dark": $gray-800), $colors);
-$primary     : #7FDBFF !default;
+$primary     : #DDDDDD !default;
 $secondary   : #673BB7 !default;
 $success     : #77C454 !default;
 $info        : #50E3C2 !default;
@@ -67,7 +67,7 @@ $heading-primary-size: 1.8rem;
 $sub-heading-size    : 1.6rem !default;
 $grid-gutter-width   : 30px;
 $dropdown-lik-color  : $body-color;
-$border-color        : #0074D9;
-$headings-color      :#f5f5f5 !default;
+$border-color        : #7FDBFF;
+$headings-color      :#7FDBFF !default;
 $grid-breakpoints    : (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl: 1440);
 // Custom Variable

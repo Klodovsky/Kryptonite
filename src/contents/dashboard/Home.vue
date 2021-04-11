@@ -646,7 +646,7 @@ export default {
                 ],
                 markers: {
                     size: 0,
-                    strokeColor: "#fff",
+                    strokeColor: "#001f3f",
                     strokeWidth: 3,
                     strokeOpacity: 1,
                     fillOpacity: 1,
